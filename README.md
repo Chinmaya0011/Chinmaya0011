@@ -8,9 +8,7 @@
 <p align="left"> <a href="https://twitter.com/chinmay67358261" target="blank"><img src="https://img.shields.io/twitter/follow/chinmay67358261?logo=twitter&style=for-the-badge" alt="chinmay67358261" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolionext-inky.vercel.app/)
-
 - 💬 Ask me about **React, Next.js, Express, MERN Stack**
--
 - 📫 How to reach me: [imchinu17@gmail.com](mailto:imchinu17@gmail.com)
 - 🌱 Currently learning TensorFlow.js and AWS
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fGF8zaJYzhrpWeXakuujqEwVVgyOLaVe/view?usp=sharing)
