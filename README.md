@@ -11,7 +11,7 @@
 - 💬 Ask me about **React, Next.js, Express, MERN Stack**
 - 📫 How to reach me: [imchinu17@gmail.com](mailto:imchinu17@gmail.com)
 - 🌱 Currently learning TensorFlow.js and AWS
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fGF8zaJYzhrpWeXakuujqEwVVgyOLaVe/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oJLiOaw9ykaJRuQNCTmdQ147fXebO0lM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
