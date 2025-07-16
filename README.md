@@ -1,100 +1,90 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8E2DE2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chinmaya+Kumar+Mishra;Full-Stack+Developer+%7C+MERN+%7C+AI+Enthusiast" alt="Typing SVG" />
-</p>
+<h1 align="center">👋 Hi, I'm Chinmaya Kumar Mishra</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | TypeScript | Python | GenAI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/Chinmaya0011/Chinmaya0011/assets/64016811/1b93d960-8351-466c-9a71-d70e67d93d62" width="100%" />
-</p>
-
----
-
-<h2 align="center" style="color:#4A00E0;">✨ About Me</h2>
-
-> 💻 I’m a passionate **Full Stack Developer** building real-world products using MERN stack, TypeScript, and exploring GenAI & Python.  
-> 🌱 Constantly learning: **AWS**, **DSA**, and **backend scaling**  
-> 🧠 Curious about everything from web performance to prompt engineering  
-> ☁️ Currently working at: [AdMagnet Growth](https://www.admagnetgrowth.com)  
-> 📬 Reach me at: [imchinu17@gmail.com](mailto:imchinu17@gmail.com)  
-> 📄 [My Resume](https://drive.google.com/file/d/1dlzwmQKRHTO4RAPCKeG8fvKNKn3Xn6mz/view?usp=sharing)
-
----
-
-<h2 align="center">🔗 Let's Connect</h2>
-
-<p align="center">
-  <a href="https://twitter.com/chinmay67358261"><img src="https://skillicons.dev/icons?i=twitter" height="35"/></a>
-  <a href="https://linkedin.com/in/finasor"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
-  <a href="https://instagram.com/chinmayakumarmishr1"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
-  <a href="https://www.hackerrank.com/chinmaya17"><img src="https://img.shields.io/badge/HackerRank-%2310B981.svg?style=for-the-badge&logo=HackerRank&logoColor=white" height="30"/></a>
-  <a href="https://leetcode.com/chinmaya17"><img src="https://img.shields.io/badge/Leetcode-FFA116.svg?style=for-the-badge&logo=Leetcode&logoColor=white" height="30"/></a>
+  <img src="https://komarev.com/ghpvc/?username=chinmaya0011&label=Profile%20views&color=blue&style=flat-square" />
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🌟 About Me
+
+- 🔭 Working at **AdMagnet Growth** → [www.admagnetgrowth.com](https://www.admagnetgrowth.com)
+- 🌱 Learning: **TypeScript**, **DSA**, **AWS**
+- 💬 Ask me about: `React`, `Next.js`, `MongoDB`, `Node.js`
+- 📫 Email: [imchinu17@gmail.com](mailto:imchinu17@gmail.com)
+- 📄 [My Resume](https://drive.google.com/file/d/1dlzwmQKRHTO4RAPCKeG8fvKNKn3Xn6mz/view)
+
+---
+
+## 🔗 Connect with Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,python,git,github,tailwind,html,css" />
+  <a href="https://twitter.com/chinmay67358261">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/finasor">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
+  </a>
+  <a href="https://instagram.com/chinmayakumarmishr1">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" />
+  </a>
+  <a href="https://www.hackerrank.com/chinmaya17">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3628885-3030000.png" width="30" />
+  </a>
+  <a href="https://www.leetcode.com/chinmaya17">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" />
+  </a>
 </p>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-- 🔧 [Form Builder SaaS](https://github.com/Chinmaya0011/form-builder) — drag-and-drop dynamic forms with login/share feature  
-- 🌐 [Portfolio Website](https://github.com/Chinmaya0011/portfolio) — minimal and animated developer portfolio  
-- 🧠 [AI Chatbot UI](https://github.com/Chinmaya0011/chatbot-ui) — frontend template for GenAI chat apps  
-- 📊 [Dashboard Template](https://github.com/Chinmaya0011/dashboard-template) — admin dashboard with chart.js and TailwindCSS
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
+## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmaya0011&show_icons=true&theme=radical&border_radius=10&hide_title=false" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaya0011&theme=radical&border_radius=10" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaya0011&layout=compact&theme=radical&border_radius=10" height="160"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
 ---
 
-<h2 align="center">📦 GitHub Contributions</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaya0011&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmaya0011&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chinmaya0011&theme=default&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaya0011&layout=compact&theme=default&hide_border=true" width="50%" />
 </p>
 
 ---
 
-<h2 align="center">⚡ Workflow Snapshot</h2>
+## 🚀 Projects
+
+- 🧩 [Form Builder](https://github.com/Chinmaya0011/form-builder) – Build, Share & Collect Responses
+- 🌐 [Portfolio Website](https://github.com/Chinmaya0011/portfolio)
+- 🤖 [GenAI Chat UI](https://github.com/Chinmaya0011/chatbot-ui)
+
+---
+
+## 📌 Quote I Like
+
+> _“Simplicity is the soul of efficiency.” – Austin Freeman_
+
+---
+
+## 🙌 Thanks for visiting my profile!
 
 <p align="center">
-  <img src="https://github.com/Chinmaya0011/Chinmaya0011/assets/64016811/b20918cc-222e-4dd6-b97b-8613029fe7e5" width="80%" />
-</p>
-
----
-
-<h2 align="center">📌 Quote I Live By</h2>
-
-> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
-
----
-
-<h2 align="center">🎯 Goal for 2025</h2>
-
-> Build 3 SaaS products  
-> Get 10K GitHub stars ⭐  
-> Deep dive into AI x Web full-time  
-> Contribute to open source & mentor juniors 💡
-
----
-
-<h3 align="center">💖 Thanks for stopping by! Let's build something cool together!</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150px" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="100" />
 </p>
