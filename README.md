@@ -1,90 +1,56 @@
-<h1 align="center">👋 Hi, I'm Chinmaya Kumar Mishra</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | TypeScript | Python | GenAI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chinmaya0011&label=Profile%20views&color=blue&style=flat-square" />
-</p>
+# Hi, I'm Chinmaya Kumar Mishra 👋
+**Full-Stack Developer | React • Next.js • Node.js • MongoDB | AI Integrations**
 
 ---
 
-## 🌟 About Me
+## About Me
+- Full-Stack Developer with experience building scalable web applications  
+- Worked at **Metadee AI** integrating OpenAI RAG models into real products  
+- Freelancer delivering **20+ end-to-end client projects**
+- Strong focus on clean code, performance, and secure APIs
 
-- 🔭 Working at **AdMagnet Growth** → [www.admagnetgrowth.com](https://www.admagnetgrowth.com)
-- 🌱 Learning: **TypeScript**, **DSA**, **AWS**
-- 💬 Ask me about: `React`, `Next.js`, `MongoDB`, `Node.js`
-- 📫 Email: [imchinu17@gmail.com](mailto:imchinu17@gmail.com)
-- 📄 [My Resume](https://drive.google.com/file/d/1dlzwmQKRHTO4RAPCKeG8fvKNKn3Xn6mz/view)
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/chinmay67358261">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/finasor">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
-  </a>
-  <a href="https://instagram.com/chinmayakumarmishr1">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" />
-  </a>
-  <a href="https://www.hackerrank.com/chinmaya17">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3628885-3030000.png" width="30" />
-  </a>
-  <a href="https://www.leetcode.com/chinmaya17">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" />
-  </a>
-</p>
+📍 Bhubaneswar, Odisha  
+📧 imchinu17@gmail.com  
+📄 [Resume](https://drive.google.com/file/d/1dlzwmQKRHTO4RAPCKeG8fvKNKn3Xn6mz/view)
 
 ---
 
-## 🛠 Languages & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</p>
+## Skills
+**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, Django  
+**Databases:** MongoDB, Firebase  
+**Languages:** JavaScript, Python, Java  
+**Tools:** Git, GitHub, VS Code, Figma  
+**Auth & APIs:** REST APIs, OAuth, GitHub Apps  
 
 ---
 
-## 📊 GitHub Stats
+## Experience
+**Metadee AI – Full-Stack Developer (Remote)**  
+*Jan 2025 – Jun 2025*  
+- Built and maintained full-stack applications  
+- Integrated OpenAI RAG models for AI-driven features  
+- Improved frontend–backend performance and reliability  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmaya0011&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chinmaya0011&theme=default&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaya0011&layout=compact&theme=default&hide_border=true" width="50%" />
-</p>
-
----
-
-## 🚀 Projects
-
-- 🧩 [Form Builder](https://github.com/Chinmaya0011/form-builder) – Build, Share & Collect Responses
-- 🌐 [Portfolio Website](https://github.com/Chinmaya0011/portfolio)
-- 🤖 [GenAI Chat UI](https://github.com/Chinmaya0011/chatbot-ui)
+**Freelancer**  
+- Delivered 20+ production-ready web applications  
+- Owned complete lifecycle: requirements → deployment → support  
 
 ---
 
-## 📌 Quote I Like
-
-> _“Simplicity is the soul of efficiency.” – Austin Freeman_
+## Projects
+- **Zyloch Scanner** – GitHub-integrated scanner with OAuth & animated UI  
+- **CiphAI Chatbot** – AI chatbot to interact with GitHub repositories  
+- **A.P Road Line** – Logistics platform with online truck booking  
+- **AdMagnet Growth** – Full-stack digital marketing platform  
 
 ---
 
-## 🙌 Thanks for visiting my profile!
+## Links
+- GitHub: https://github.com/Chinmaya0011  
+- LinkedIn: https://www.linkedin.com/in/chinmaya-kumar-mishra-24099b21b/  
+- LeetCode: https://leetcode.com/u/imchinu17/  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="100" />
-</p>
+---
+
+> *Simplicity is the soul of efficiency.*
